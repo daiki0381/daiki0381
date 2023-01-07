@@ -33,7 +33,6 @@ Web Developer
 
 <p align="left">
   <a href="https://www.facebook.com/DAIKI0381" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-  <a href="/https://daiki0381.hatenablog.com/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://daiki0381.hatenablog.com/" height="30" width="40" /></a>
 </p>
 
 ### Badges
