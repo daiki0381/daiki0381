@@ -40,4 +40,4 @@ Web Developer
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daiki0381&" alt="daiki0381" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daiki0381&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daiki0381&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
