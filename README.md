@@ -5,7 +5,6 @@ Web Developer
 * ✉️  You can contact me at [daiki03810218@gmail.com](mailto:daiki03810218@gmail.com)
 * 🎓  I graduated from [fjordbootcamp](https://bootcamp.fjord.jp/)
 * 🚀  I'm currently working on [FUNDINNO](https://fundinno.com/)
-* 🧠  I'm learning Next.js, React, TypeScript, Rails, Algorithm (more deep)
 
 ### Skills
 
