@@ -33,8 +33,6 @@ Web Developer
 
 ### Badges
 
-<a href="https://atcoder.jp/users/daiki0381" target="_blank" title="daiki0381"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fdaiki0381" /></a>
-
 [![daiki0381](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fdaiki0381)](https://atcoder.jp/users/daiki0381)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daiki0381&" alt="daiki0381" /></p>
