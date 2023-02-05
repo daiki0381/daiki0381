@@ -3,7 +3,7 @@ Web Developer
 
 * 🌍  I'm based in Japan, Tokyo
 * ✉️  You can contact me at [daiki03810218@gmail.com](mailto:daiki03810218@gmail.com)
-* 🎓  I graduated from [fjordbootcamp](https://bootcamp.fjord.jp/)
+* 🎓  I graduated from [fjordbootcamp](https://bootcamp.fjord.jp/#administrator)
 * 🚀  I'm currently working on [FUNDINNO](https://fundinno.com/)
 
 ### Skills
