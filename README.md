@@ -1,4 +1,4 @@
-Web Developer
+Software Engineer
 ------------------------
 
 * 🌍  I'm based in Japan, Tokyo
