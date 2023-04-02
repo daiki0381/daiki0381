@@ -13,7 +13,9 @@ Software Engineer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,react,nextjs,ruby,rails,py,go,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,py,go,aws&theme=light)](https://skillicons.dev)
 
 ### Badges
 
