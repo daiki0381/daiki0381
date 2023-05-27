@@ -7,9 +7,8 @@ Software Engineer
 
 ### Socials
 
-<p align="left">
-  <a href="https://www.facebook.com/DAIKI0381" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-</p>
+<a href="https://fb.com/daiki0381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daiki0381" height="30" width="40" /></a>
+<a href="https://twitter.com/daiki__0381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daiki__0381" height="30" width="40" /></a>
 
 ### Skills
 
