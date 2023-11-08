@@ -11,4 +11,4 @@ Software Engineer
 
 ### 🏆 Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daiki0381&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Followers&column=6&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daiki0381&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Followers&column=6)](https://github.com/ryo-ma/github-profile-trophy)
