@@ -2,7 +2,6 @@ Software Engineer
 ------------------------
 
 * 🌍  I'm based in Japan, Tokyo
-* 🎓  I graduated from [fjordbootcamp](https://bootcamp.fjord.jp/)
 
 ### 📱 Socials
 
